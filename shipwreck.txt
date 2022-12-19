@@ -1,0 +1,104 @@
+// This is a shipwreck tale! :D
+
+{I}-You and your friends were saling across the
+Atlantic Ocean in a very sturdy vessel. So
+sturdy in fact that there was no way it could
+crash... right? Could it crash? Theres no
+need to worry about that. Probably. Just
+relax and enjoy the trip :D
+
+{S}-Your day starts out just like any other. You
+wake up and leave your cabin, heading down
+to the mess hall to look for some food.
+
+\nWhat should you grab to eat?
+[Orange]-A very large orange.
+[Fish]-Fish.
+[Bread]-Some questionable bread.
+[Banana]-A banana :o
+
+{Orange}-Why did you choose this? Do you like, have
+a problem? You chose a very large orange.
+Are you ok? Oh well. You're probably fine.
+
+\nHow are you going to eat the very large orange?
+[Spoon]-A very large spoon.
+[Knife]-A very large knife.
+[Hands]-Just use your hands.
+
+{Fish}-You're eating fish? For breakfast? You
+know what, you're right. You're on vacation.
+Eat whatever you want. What could go wrong.
+
+\nYou eat the fish. Are you happy now? Hmph.
+Continuing on with your morning, you make your
+way onto the deck. The sea is a bit chaotic,
+but you know that your trusty vessel will manage.
+
+\nWhat shall you do next?
+[Stay]-Stay up on deck.
+[Bed]-Go back to bed.
+[Hungry]-Go eat more.
+
+{Banana}- You eat a banana. How unique. You must have
+decided that that was enough food. You make your
+way up onto the deck.
+
+\nWhat shall you do next?
+[Stay]-Stay up on deck.
+[Bed]-Go back to bed.
+
+{Spoon}-You use a spoon to eat an orange? I mean...
+If it works, it works. I guess whatever
+floats your boat. You eat the orange, and
+feel full afterwards. You make your way
+up onto the deck.
+
+\nWhat shall you do next?
+[Stay]-Stay up on deck.
+[Bed]-Go back to bed.
+
+{Hands}-You wanted to use your hands? Are you dumb?
+You do realize that this is an orange.
+Eh, you know what. I'm going to give
+you another chance.
+
+\nWould you like to choose a different tool?
+[Orange]-Yes.
+[BadOrange]-No.
+
+{Hungry}-You're still hungry.
+
+\nWhat would you like to eat?
+[Orange]-A very large orange.
+[Bread]-Some questionable bread.
+[Banana]-A banana :o
+
+// Endings.
+<Bread>-What did you expect to happen??
+There's mold on the bread you idiot. You
+take one bite and immediately feel sick.
+As the light surrounding you fades all you
+can think about is how badly you must have
+wanted that bread...
+
+<Knife>-You chose to eat the orange with a very
+large knife. How did you think this would
+end? Oh well. As you're trying to cut the
+orange the knife slips...
+
+<Bed>-You go back to bed. What an odd morning.
+Maybe things will be different when
+you wake back up...
+
+<BadOrange>-You try and try to use your hands to
+eat the orange. But it just isn't working.
+It's getting annoying. You should just
+give up. And you do. What a strange way
+to end a story...
+
+<Stay>-You greet the shark as you walk past it.
+Wait, wait. You greet the WHAT. You
+freeze. Theres a shark. Right behind
+you. Welp. It looks like the real
+snack was you all along...
