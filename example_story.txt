@@ -1,0 +1,30 @@
+// You can use double slashes as comments, it will ignore
+// anything with // at the beginning.
+{I}-Introduction to the story.
+If you add another line below it will go to another line.
+
+{S}-First Question to make.
+Keep adding things and they will start new lines as they go.
+[S1]-Option 1
+[S2]-Text for Option 2
+[S3]-Text for 3
+
+{S1}-Option 1
+Here are your choices.
+[E1]-Ending 1
+[E2]-Ending 2
+
+{S2}-Option 2
+[E1]-Ending 1
+[E2]-Ending 2
+
+{S3}-Option 3
+[E1]-Ending 1
+[E2]-Ending 2
+[S2]-Go to option 2.
+[S1]-Go to option 1.
+[S]-Go back to the start.
+
+// Endings :D
+<E1>-Ending 1.
+<E2>-Ending 2.
